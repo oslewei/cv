@@ -1,11 +1,11 @@
 // Imports
 #import "@preview/brilliant-cv:4.1.0": cv-entry, cv-section
 
-#cv-section("Projects & Associations")
+#cv-section("Projects")
+
 
 #cv-entry(
-  title: [Volunteer Data Analyst],
-  society: [ABC Nonprofit Organization],
+  title: [],
   date: [2019 - Present],
   location: [New York, NY],
   description: list(
@@ -16,30 +16,3 @@
   ),
   tags: ("Volunteer Work", "Non-profit", "Social Impact"),
 )
-dk
-//
-// #cv-entry(
-//   title: [Open Source Contributor],
-//   society: [Python Data Science Libraries],
-//   date: [2018 - Present],
-//   location: [Remote],
-//   description: list(
-//     [Contributed to pandas, scikit-learn, and matplotlib projects],
-//     [Fixed bugs, improved documentation, and added new features],
-//     [Mentored new contributors during Google Summer of Code],
-//   ),
-//   tags: ("Open Source", "Python", "Community"),
-// )
-//
-// #cv-entry(
-//   title: [Machine Learning Research Project],
-//   society: [Personal Project],
-//   date: [Summer 2020],
-//   location: [Remote],
-//   description: list(
-//     [Developed a novel approach to time series forecasting using transformer architectures],
-//     [Published research paper and open-sourced implementation on GitHub],
-//     [Achieved 15% improvement over baseline models on benchmark datasets],
-//   ),
-//   tags: ("Research", "Deep Learning", "Time Series"),
-// )

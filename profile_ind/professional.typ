@@ -13,8 +13,8 @@
   location: [Groningen],
   date: [Sem 2 2024-2025],
   description: list(
-    [Worked in a team on an automatic ], 
-    [],
+    [Worked in a team on an automatic Vulnerability parsing and storage framework], 
+    [Allowed Researchable to keep track of vulnerabilities in their development to keep ISO 27001],
   ),
   tags: ("CI/CD", "Grafana", "Go"),
 )
@@ -26,7 +26,7 @@
   date: [Sem 1 2024-2025],
   description: list(
     [Gemeente Groningen organized pentesting competition on their infrastructure], 
-    [Learned real life cybersecurity],
+    [Experienced real life pentesting and cyber security],
   ),
   tags: ("Offensive Security", ),
 )

@@ -113,7 +113,7 @@ letter_footer = "Cover letter"
     # Custom entries use a `custom-<descriptive-name>` key (e.g. custom-degree,
     # custom-cert). Descriptive names keep `custom-icons:` mapping in cv.typ readable.
     [personal.info]
-        github = "noknowledgeman"
+        github = "oslewei"
         email = "oslewei@proton.me"
         linkedin = "oscar-weimann-7788972b8"
         # homepage = "oslewei.dev"
