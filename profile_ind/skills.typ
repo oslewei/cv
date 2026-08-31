@@ -16,7 +16,7 @@
 
 #cv-skill(
   type: [Tech Stack],
-  info: [Git #h-bar() Docker #h-bar() Linux],
+  info: [Git #h-bar() CI/CD #h-bar() Docker #h-bar() Linux],
 )
 
 #cv-skill(

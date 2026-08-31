@@ -58,7 +58,7 @@ letter_footer = "Cover letter"
     [layout.entry]
         # true = company name bold on top, role below; false = role bold on top
         # Must be true to use cv-entry-start / cv-entry-continued pattern
-        display_entry_society_first = true
+        display_entry_society_first = false
 
         # false hides all company/organisation logos in entries
         display_logo = false
@@ -91,7 +91,8 @@ letter_footer = "Cover letter"
     #   - The text stays extractable: copy/paste or "select all" reveals it.
     #     (It is marked as a PDF artifact, so screen readers skip it.)
     #   - Keep any keywords truthful to skills you actually have.
-    # injected_keywords_list = ["Data Analyst", "GCP", "Python", "SQL", "Tableau"]
+    injected_keywords_list = ["AI", "Cybersecurity", "Python", "C/C++", "Zig",
+    "Rust", "Git", "Docker"]
 
     # Optional free-form hidden prompt aimed at LLM-based screeners. Same
     # detection risks as above, and modern models largely ignore injected
@@ -120,4 +121,8 @@ letter_footer = "Cover letter"
         location = "The Hague, The Netherlands"
         # extraInfo = "Available for remote work"  # Shown as extra text with an info icon in header
         # Insert a line break in the header info, splitting icons across two lines
+
+        # custom-tangled = "os1to"
+
         #linebreak = ""
+

@@ -1,18 +1,27 @@
 // Imports
 #import "@preview/brilliant-cv:4.1.0": cv-entry, cv-section
 
-#cv-section("Projects")
-
+#cv-section("Personal Projects", )
 
 #cv-entry(
-  title: [],
-  date: [2019 - Present],
-  location: [New York, NY],
+// Hopefully llms at some piont 
+  title: [AI Framework in C],
+  society: none,
+  location: none,
+  date: [2025 - Present],
   description: list(
-    [Analyze donor and fundraising data to identify trends and opportunities for growth],
-    [Create data visualizations and dashboards to communicate insights to the board of directors],
-    [Collaborate with other volunteers to develop and implement data-driven strategies],
-    [Increased donation efficiency by 25% through predictive modeling],
+    [Wrote a Machine Learning Library in C to learn Deep Learning without mandatory external dependencies],
   ),
-  tags: ("Volunteer Work", "Non-profit", "Social Impact"),
+  tags: ("AI", "ML", "C"),
+)
+
+#cv-entry(
+  title: [Path Tracer in Zig],
+  society: none,
+  location: none,
+  date: [2025 - Present],
+  description: list(
+    [Wrote a multithreaded pathtracer in Zig, following the Raytracing in one Weekend book series, achieving sub-second rendering times],
+  ),
+  tags: ("Rendering", "Zig"),
 )
