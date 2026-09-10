@@ -5,23 +5,24 @@
 
 #cv-entry(
 // Hopefully llms at some piont 
-  title: [AI Framework in C],
+  title: [#link("https://github.com/oslewei/c-machine-learning")[ML Framework in C]],
   society: none,
   location: none,
   date: [2025 - Present],
   description: list(
-    [Wrote a Machine Learning Library in C without forced external dependencies, achieving 98% accuracy on MNIST],
+    [Built a _machine learning library_ in C without mandatory external dependencies, achieving 98% accuracy on MNIST],
   ),
-  tags: ("Artificial Intelligence", "Machine Learning", "Deep Learning", "C"),
+  // tags: ("Artificial Intelligence", "Machine Learning", "Deep Learning", "C"),
 )
 
 #cv-entry(
-  title: [Path Tracer in Zig],
+  title: [#link("https://github.com/oslewei/zig-rtweekend")[Path Tracer in Zig]],
   society: none,
   location: none,
   date: [2025 - Present],
   description: list(
-    [Wrote a multithreaded pathtracer in Zig, following the #emph[Raytracing in one Weekend] book series, achieving sub-second rendering times],
+    [Built a _multithreaded pathtracer_ in Zig, following the #link("https://raytracing.github.io/")[_Raytracing in one Weekend_ book series]],
+    [Achieving high-definition CPU renderings of the #link("https://bowers.cornell.edu/cornell-box")[_Cornell Box_]],
   ),
-  tags: ("Rendering", "Multithreading", "Zig"),
+  // tags: ("Rendering", "Multithreading", "Zig"),
 )

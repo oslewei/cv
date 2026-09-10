@@ -13,10 +13,11 @@
   location: [Groningen],
   date: [Sem 2 2024-2025],
   description: list(
-    [Worked in a team of 4 on an extensible automatic vulnerability parsing and storage framework], 
-    [Allowed Researchable to keep track of vulnerabilities on Grafana to conform to their ISO-27001 certification],
+    [Built an extensible automatic vulnerability parsing and storage framework in Go as part of a 4 person team], 
+    [It ingests vulnerability scanner output via user-defined parsers through _CI/CD_, storing and visualizing results on _Grafana_],
+    [Enabled Researchable to keep track of vulnerabilities on _Grafana_ to conform to their _ISO-27001_ certification],
   ),
-  tags: ("CI/CD", "Grafana", "Go"),
+  // tags: ("CI/CD", "Grafana", "Go"),
 )
 
 #cv-entry(
@@ -25,10 +26,10 @@
   location: [Groningen],
   date: [Sem 2 2025-2026],
   description: list(
-    [Worked with a partner to streamline the Ethical Hacking Course final assessment],
-    [Built an automatic Capture The Flag challenge validator for a wide variety of challenges],
+    [Streamlined the _Ethical Hacking_ Master's-level course final assessment, consisting of building a CTF challenge],
+    [Built an automatic _Capture The Flag_ challenge validator, that checks if a wide variety of challenges is solvable],
   ),
-  tags: ("CTF", "Python", "CTFd"),
+  // tags: ("CTF", "Python", "CTFd"),
 )
 
 #cv-entry(
@@ -37,8 +38,8 @@
   location: [Groningen],
   date: [Sem 1 2024-2025],
   description: list(
-    [Attended a hacking competition organized by the Gemeente Groningen to find vulnerabilities in their infrastructure], 
-    [Learned real-world cybersecurity and penetration testing environments, working in a team to attack the system],
+    [Attended a _hacking competition_ organized by the Gemeente Groningen to find vulnerabilities in their infrastructure], 
+    [Learned real-world cybersecurity and _penetration testing_ environments, working in a team to attack the system],
   ),
 )
 

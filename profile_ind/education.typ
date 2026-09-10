@@ -7,12 +7,12 @@
 #cv-entry(
   title: [Bachelor of Computing Science],
   society: [Rijksuniversiteit Groningen],
-  date: [2023 - 2026],
+  date: [Sep 2023 - Jul 2026],
   location: [Groningen],
   description: list(
     [Thesis: SparseBDL: Blockchain-Enabled Byzantine-Robust Decentralized Learning over Sparse Topologies],
     [Courses: Software Engineering #h-bar() Blockchain Technology #h-bar() Applied Cryptography ],
-    [Grade: 8.6 #h-bar() 215/180 ECTS]
+    [Grade: 8.6/10 #h-bar() 215/180 ECTS]
   ),
 )
 
@@ -22,7 +22,7 @@
   date: [2024 - 2026],
   location: [Groningen],
   description: list(
-    [Alumni of the RUG Honours College, focusing on interdisiplinary and professional life skills],
+    [Alumni of the RUG Honours College, focusing on _interdisiplinary_ and _professional life skills_],
     [Attended a Summer School at the Universitat Autònoma de Barcelona, on Religion in the Public Domain],
   ),
 )

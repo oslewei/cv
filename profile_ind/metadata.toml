@@ -7,6 +7,7 @@
 # the fields that differ.
 
 # Italic tagline displayed below your name and contact info
+header_quote = "Computer Scientist focused on AI, cybersecurity, and low-level systems, with an interdisciplinary research background"
 
 # Text shown in the left side of the footer on CV pages
 cv_footer = "Curriculum vitae"
@@ -91,8 +92,8 @@ letter_footer = "Cover letter"
     #   - The text stays extractable: copy/paste or "select all" reveals it.
     #     (It is marked as a PDF artifact, so screen readers skip it.)
     #   - Keep any keywords truthful to skills you actually have.
-    injected_keywords_list = ["AI", "Cybersecurity", "Python", "C/C++", "Zig",
-    "Rust", "Git", "Docker"]
+    # injected_keywords_list = ["AI", "Cybersecurity", "Python", "C/C++", "Zig",
+    # "Rust", "Git", "Docker"]
 
     # Optional free-form hidden prompt aimed at LLM-based screeners. Same
     # detection risks as above, and modern models largely ignore injected
