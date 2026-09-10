@@ -116,7 +116,7 @@ letter_footer = "Cover letter"
     [personal.info]
         github = "oslewei"
         email = "oslewei@proton.me"
-        linkedin = "oscar-weimann-7788972b8"
+        linkedin = "oscar-weimann"
         # homepage = "oslewei.dev"
         location = "The Hague, The Netherlands"
         # extraInfo = "Available for remote work"  # Shown as extra text with an info icon in header

@@ -7,11 +7,11 @@
   title: [The crossroads between AI, AI generated religions and freedom of religion],
   society: [Honours College Groningen],
   location: none,
-  date: [2026],
+  date: [Sem 1 2026 - Present],
   description: list(
     [Worked in a team to write about the effect of the AI boom on religion and freedom of religion, 
     taking OpenClaw and Crustafarianism as a case study],
-    [Currently looking to get published],
+    [Currently working towards publishing in an academic journal],
   ),
 )
 

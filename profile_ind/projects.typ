@@ -10,9 +10,9 @@
   location: none,
   date: [2025 - Present],
   description: list(
-    [Wrote a Machine Learning Library in C to learn Deep Learning without mandatory external dependencies],
+    [Wrote a Machine Learning Library in C without forced external dependencies, achieving 98% accuracy on MNIST],
   ),
-  tags: ("AI", "ML", "C"),
+  tags: ("Artificial Intelligence", "Machine Learning", "Deep Learning", "C"),
 )
 
 #cv-entry(
@@ -21,7 +21,7 @@
   location: none,
   date: [2025 - Present],
   description: list(
-    [Wrote a multithreaded pathtracer in Zig, following the Raytracing in one Weekend book series, achieving sub-second rendering times],
+    [Wrote a multithreaded pathtracer in Zig, following the #emph[Raytracing in one Weekend] book series, achieving sub-second rendering times],
   ),
-  tags: ("Rendering", "Zig"),
+  tags: ("Rendering", "Multithreading", "Zig"),
 )

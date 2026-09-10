@@ -19,7 +19,7 @@
 #import-modules((
   "education",
   "professional",
-  "projects",
   "publications",
+  "projects",
   "skills",
 ))

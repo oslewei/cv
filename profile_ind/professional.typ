@@ -13,8 +13,8 @@
   location: [Groningen],
   date: [Sem 2 2024-2025],
   description: list(
-    [Worked in a team on an automatic Vulnerability parsing and storage framework], 
-    [Allowed Researchable to keep track of vulnerabilities, conforming to ISO-27001],
+    [Worked in a team of 4 on an extensible automatic vulnerability parsing and storage framework], 
+    [Allowed Researchable to keep track of vulnerabilities on Grafana to conform to their ISO-27001 certification],
   ),
   tags: ("CI/CD", "Grafana", "Go"),
 )
@@ -25,7 +25,7 @@
   location: [Groningen],
   date: [Sem 2 2025-2026],
   description: list(
-    [Worked with a partner on streamlining the Ethical Hacking Course assessment],
+    [Worked with a partner to streamline the Ethical Hacking Course final assessment],
     [Built an automatic Capture The Flag challenge validator for a wide variety of challenges],
   ),
   tags: ("CTF", "Python", "CTFd"),
@@ -37,8 +37,8 @@
   location: [Groningen],
   date: [Sem 1 2024-2025],
   description: list(
-    [Gemeente Groningen organized pentesting competition, to find vulnerabilities in their infrastructure], 
-    [Learned real life cybersecurity and penetration testing],
+    [Attended a hacking competition organized by the Gemeente Groningen to find vulnerabilities in their infrastructure], 
+    [Learned real-world cybersecurity and penetration testing environments, working in a team to attack the system],
   ),
 )
 
