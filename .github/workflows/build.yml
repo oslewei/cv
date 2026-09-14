@@ -19,3 +19,10 @@ jobs:
         with:
           name: OscarWeimannCV
           path: OscarWeimannCV.pdf
+
+      - name: Publish to Release
+        uses: softprops/action-gh-release@v3
+        with:
+          tag_name: latest
+          files: OscarWeimannCV.pdf
+          make_latest: true
