@@ -16,7 +16,7 @@
 
 #cv-skill(
   type: [Tech Stack],
-  info: [Git #h-bar() CI/CD #h-bar() Docker #h-bar() Linux #h-bar() Grafana],
+  info: [Git #h-bar() CI/CD #h-bar() Docker #h-bar() Linux #h-bar() Grafana #h-bar() QEMU/KVM],
 )
 
 #cv-skill(

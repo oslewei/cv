@@ -7,6 +7,10 @@
 
 #cv-section("Professional Experience")
 
+// - Built an extensible automatic vulnerability parsing and storage framework in Go as part of a 4 person team 
+// - It ingests vulnerability scanner output via user-defined parsers through CI/CD, storing and visualizing results on Grafana
+// - Enabled Researchable to keep track of vulnerabilities on Grafana to conform to their ISO-27001 certification
+
 #cv-entry(
   title: [Software Engineering Internship],
   society: [Researchable],
