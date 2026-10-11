@@ -21,5 +21,5 @@
 
 #cv-skill(
   type: [Personal Interests],
-  info: [Rugby #h-bar() Cooking #h-bar() Reading #h-bar() Recreational Programming #h-bar() Travelling],
+  info: [Rugby #h-bar() Cooking #h-bar() Reading #h-bar() Recreational Programming #h-bar() Travelling #h-bar() Guitar],
 )

@@ -24,6 +24,7 @@
   description: list(
     [Alumni of the RUG Honours College, focusing on _interdisiplinary_ and _professional life skills_],
     [Attended a Summer School at the Universitat Autònoma de Barcelona, on Religion in the Public Domain],
+    [Extracurricular courses on relativity, ethics, debating, and teamwork along with guest lectures]
   ),
 )
 
