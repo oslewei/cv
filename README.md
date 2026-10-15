@@ -16,14 +16,12 @@
 ### Professional Experience
 
 - Researchable
-
 - Haack050
 
 ### Projects
 
 - The ai 
 - Pathtracer
-- (maybe colombia
 - Home server
 
 ### Skills
@@ -36,9 +34,3 @@
 ## Maybe
 
 - Rugby bartending, organizing events at a larlger clubs ...
-
-## ATS
-
-- A bunch of buzzwords
-
-- Maybe an llm catching phrase
